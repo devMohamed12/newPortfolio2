@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.section-spacing{
+    @apply my-8 py-8 lg:my-12 lg:py-12
+}
+
+
+.section-container{
+    @apply lg:w-4/5 w-[90%] mx-auto ;
+}
+
+.main-title{
+    @apply  text-teal-600 text-2xl lg:text-4xl font-extrabold uppercase font-Jost text-center mb-8;
+}
+ 
+  
