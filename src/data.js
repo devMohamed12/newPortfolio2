@@ -79,8 +79,8 @@ const furnitureStore = new Project(
   "Furniture Store ",
   furnitureStoreImg,
   "Furniture Store project for buying and selling furnitures",
+  "https://devmohamed12.github.io/furniture/#/",
   "https://github.com/devMohamed12/furniture",
-  "https://devmohamexd12.github.io/furniture/#/",
   "reactProject",
   [react,supabase, redux , tailwindCss]
 );
