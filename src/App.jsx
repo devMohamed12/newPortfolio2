@@ -22,12 +22,10 @@ import "aos/dist/aos.css";
       offset: 200,
       duration: 500,
       easing: "ease-in-out-sine",
-      startEvent: "load",
-      mirror: true,
-      once:true,
+       mirror: true,
       
-      //  anchorPlacement: "center-bottom",
-    });
+      
+     });
   }, []);
 
   return (
