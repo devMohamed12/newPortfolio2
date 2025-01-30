@@ -2,7 +2,7 @@ import ContactForm from "./ContactForm.jsx";
 
 const ContactUs = () => {
   return (
-    <section className="section-spacing">
+    <section className="section-spacing" id="contactME">
       <div className="section-container">
         {/* Title */}
         <h2 className="main-title" data-aos="fade-right">
