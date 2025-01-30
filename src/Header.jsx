@@ -10,16 +10,16 @@ const Header = () => {
           </div>
 
           <div className="flex justify-center gap-4 text-base lg:text-[19px]">
-            <a href="" className="block hover:underline">
+            <a href="#aboutME" className="block hover:underline"  >
               about me
             </a>
-            <a href="" className="block hover:underline">
+            <a href="#skills" className="block hover:underline">
               skills
             </a>
-            <a href="" className="block hover:underline">
+            <a href="#projects" className="block hover:underline">
               projects
             </a>
-            <a href="" className="block hover:underline">
+            <a href="#contactME" className="block hover:underline">
               contact me
             </a>
           </div>
