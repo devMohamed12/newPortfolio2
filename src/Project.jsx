@@ -12,7 +12,7 @@ const Project = ({ project }) => {
   return (
     <div className="py-6" data-aos="fade-down" data-aos-delay="500">
       <div>
-        <h2 className="text-2xl font-bold  mb-6 uppercase rounded-xl text-Jost">
+        <h2 className="text-2xl text-white font-bold  mb-6 uppercase rounded-xl text-Jost">
           {title}
         </h2>
         <div>
