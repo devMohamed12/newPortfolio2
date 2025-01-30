@@ -1,6 +1,6 @@
 const AboutMe = () => {
   return (
-    <section className="section-spacing !mt-0">
+    <section className="section-spacing !mt-0" id="aboutME">
       <div className="section-container ">
         <div className="flex justify-center items-center flex-col text-center  min-h-96">
           {/* maiin  */}
