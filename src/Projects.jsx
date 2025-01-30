@@ -8,7 +8,7 @@ import { Project } from "./export";
 
 const Projects = ({ data }) => {
   return (
-    <section className="section-spacing">
+    <section className="section-spacing" id="projects">
       <div className="section-container">
 
       {/* Heading */}
