@@ -6,7 +6,7 @@ import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 
 const ContactForm = () => {
   const label = "text-[17px] mb-2 block";
-  const input = "input focus:outline-none w-full ";
+  const input = "input focus:outline-none w-full bg-white";
 
   const initialValues = {
     name: "",
