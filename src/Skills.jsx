@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Skills = ({ data }) => {
   return (
-    <section className="section-spacing">
+    <section className="section-spacing" id="skills">
       <div className="section-container">
         <h2 data-aos="fade-down" className="main-title ">
           My Skills
